@@ -9,11 +9,10 @@ This project demonstrates the complete lifecycle of a machine learning system, f
 - Hyperparameter tuning and model evaluation
 - Flask-based prediction API
 - Deployment on **AWS** using CI/CD pipelines (GitHub + AWS EC2)
-- Deployment on **Azure Web App** using **GitHub Actions**
 
 ## 🛠️ Tech Stack
 - **Languages/Frameworks:** Python, Flask  
 - **Libraries:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, CatBoost, XGBoost, Dill  
-- **Tools:** GitHub Actions, AWS EC2, Azure Web App, CI/CD Pipelines
+- **Tools:** GitHub Actions, AWS EC2, CI/CD Pipelines
 
 Thank you for visiting my repository.
